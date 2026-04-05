@@ -1,2 +1,0 @@
-# devops-intro
-Second workings
